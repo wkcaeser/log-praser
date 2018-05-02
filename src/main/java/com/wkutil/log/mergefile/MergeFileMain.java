@@ -1,4 +1,4 @@
-package com.khis.log.mergefile;
+package com.wkutil.log.mergefile;
 
 import java.io.File;
 import java.io.FileInputStream;

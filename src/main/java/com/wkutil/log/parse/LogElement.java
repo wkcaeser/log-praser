@@ -1,4 +1,4 @@
-package com.khis.log.parse;
+package com.wkutil.log.parse;
 
 public class LogElement {
 	private String cmd;

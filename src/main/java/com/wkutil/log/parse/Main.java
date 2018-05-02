@@ -1,4 +1,4 @@
-package com.khis.log.parse;
+package com.wkutil.log.parse;
 
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.openxml4j.opc.OPCPackage;
